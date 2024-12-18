@@ -1,7 +1,7 @@
 # ShapeAtlas-UNet: Enhancing U-Net Performance for Liver Segmentation
 
 
-## [Paper](https://github.com/yubrajbhandari923/shapeatlasUnet/blob/master/Improving_Unets.pdf)
+## Read about this project in detail from this [Paper](https://github.com/yubrajbhandari923/shapeatlasUnet/blob/master/Improving_Unets.pdf)
 
 ## Project Overview
 
