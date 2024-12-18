@@ -1,5 +1,8 @@
 # ShapeAtlas-UNet: Enhancing U-Net Performance for Liver Segmentation
 
+
+## [Paper](https://github.com/yubrajbhandari923/shapeatlasUnet/blob/master/Improving_Unets.pdf)
+
 ## Project Overview
 
 ShapeAtlas-UNet is an innovative approach to improve the performance of U-Net models for liver segmentation in CT images, particularly focusing on enhancing efficiency for smaller networks and resource-constrained environments. This project introduces a method that incorporates shape atlas information into the U-Net architecture, aiming to boost segmentation accuracy without significantly increasing computational demands during inference.
